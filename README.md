@@ -86,7 +86,7 @@ When all nodes are producing new blocks, it's time for moving on to the next pro
 
 ## Conclusion
      
-We have demonstrated how to create a new testnet blockchain from scratch using the POA algorithm. You may find it stressful if you experience errors and enless `Looking for Peers` messages while mining blocks. We went through the same and got the successful result after several trials so don't get stressed out.   
+We have demonstrated how to create a new testnet blockchain from scratch using the POA algorithm. You may find it stressful if you experience errors and endless `Looking for Peers` messages while mining blocks. We went through the same and got the successful result after several trials so don't get stressed out.   
 
 In this way, the developers may be able to explore and test the blockchain by applying many scenarios. We hope this was helpful!
 
